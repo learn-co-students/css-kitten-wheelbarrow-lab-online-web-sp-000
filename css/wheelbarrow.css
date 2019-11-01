@@ -10,7 +10,7 @@ img {
 
 .wrapper {
   position: relative;
-  width: 960px;
+  width: 1960px;
   height: 100vh;
   margin: 0 auto;
 }
@@ -21,7 +21,7 @@ img {
   height: 514px;
 }
 
-#wheelbarrow { 
+#wheelbarrow {
   position: relative;
   background: url(../images/wheelbarrow.png) no-repeat;
   z-index: 0;
